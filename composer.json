@@ -1,5 +1,5 @@
 {
-  "name": "Glavpunkt/Api",
+  "name": "glavpunkt/api",
   "description": "Glavpunkt Api connector",
   "autoload": {
     "psr-4": {
