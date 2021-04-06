@@ -8,5 +8,9 @@
   },
   "require": {
     "php": ">=5.4.0"
-  }
+  },
+  "type": "library",
+  "keywords": ["glavpunkt"],
+  "homepage": "https://glavpunkt.ru",
+  "license": "MIT"
 }
