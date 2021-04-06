@@ -1,0 +1,10 @@
+{
+  "name": "GlavpunktApi",
+  "description": "Glavpunkt Api connector",
+  "autoload": {
+    "psr-4": {
+      "Glavpunkt\\": "/src"
+    }
+  },
+  "minimum-stability": "dev"
+}
