@@ -4,12 +4,12 @@
   "license": "MIT",
   "keywords": ["glavpunkt"],
   "require": {
-    "minimum-stability": "dev"
   },
   "require-dev": {},
   "autoload": {
     "psr-4": {
       "Glavpunkt\\": "src"
     }
-  }
+  },
+  "minimum-stability": "dev"
 }
