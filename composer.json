@@ -3,7 +3,9 @@
   "description": "Glavpunkt Delivery Service API",
   "license": "MIT",
   "keywords": ["glavpunkt"],
-  "require": {},
+  "require": {
+    "minimum-stability": "dev"
+  },
   "require-dev": {},
   "autoload": {
     "psr-4": {
